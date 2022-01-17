@@ -1,3 +1,3 @@
 # StimoMC
 
-<iframe src="https://discord.com/widget?id=878184524838760490&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="https://stimomc.com/go/discord/"><img src="https://discordapp.com/api/guilds/878184524838760490/embed.png" alt="Discord server"/></a>
